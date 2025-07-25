@@ -1,4 +1,4 @@
-# Failed Banks in the USA: Power BI Data Analysis & Dashboard
+# Failed Banks in the USA: Power BI Data Analysis and Dashboard
 
 ## Project Overview
 
